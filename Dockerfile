@@ -1,5 +1,5 @@
 # base image  
-FROM python:3.8  
+FROM python:3.9.6
 # setup environment variable  
 ENV DockerHOME=/home/app/skuad  
 
